@@ -1,1 +1,1 @@
-add_lunch_combo cm_u8833-userdebug
+add_lunch_combo aosp_u8833-userdebug
